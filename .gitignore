@@ -1,0 +1,19 @@
+# ==========================
+# Node.js
+# ==========================
+Backend/node_modules/
+
+# Environment Variables
+Backend/.env
+Backend/.env.*
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Ignore documentation not meant for GitHub
+PREDICTION_INTEGRATION_GUIDE.md
+
+# OS Files
+.DS_Store
+Thumbs.db
